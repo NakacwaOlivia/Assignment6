@@ -1,0 +1,47 @@
+.card{
+    
+    font-weight: bold;
+    width: 290px;
+    height: 140px;
+    top: 8%;  
+    color: white;
+    text-align: left;
+    position: relative;
+    background-position: center;
+    background-image: url(body5.jpg);
+    padding-top: 40px;
+    padding-bottom: 0px;
+    margin-top: -20px;
+    padding-left: 30px;
+}
+
+
+
+h2{
+    text-align: center;
+    color:black;
+    
+}
+body{
+    background-image: url(body5.jpg);
+   
+}
+.label{
+    justify-content: left;
+}
+.container{
+    margin-top: 200px;
+    height: 246px;
+    width: 320px;
+    position: relative;   
+    left: 40%;
+    background-color: gray;
+    border: bold red;
+    color: black;   
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+div:hover{
+    box-shadow: -10px 10px 0 white;
+}
